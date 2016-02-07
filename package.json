@@ -1,0 +1,14 @@
+{
+  "name": "react-touch-base",
+  "version": "1.0.0",
+  "description": "Touch base the skills",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "react-dom": "^0.14.7"
+  }
+}
